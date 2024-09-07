@@ -2,15 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Monorflair",
     "section": "",
-    "text": "About this site"
+    "text": "Monorflair spends his time studying in Germany. He is presently in middleschool in one of the best schools in Frankfurt."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Monorflair",
+    "section": "Experience",
+    "text": "Experience\nMonorflair started coding in scratch since he was 6 years old and with python since he turned 9. His dad inroduced him to Quarto in 2024 and he has been trying it out ever since."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "Monorflair",
+    "section": "Hobbies",
+    "text": "Hobbies\nHe loves playing brawlstars on his phone and also Pokemon and Fortnite on Nintendo"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-brawlstars",
+    "title": "Brawlstars",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Your ultimate source for Brawl Stars strategies, updates, and community.\n\n\nClancy has the highest win rate at 67.3%."
+  },
+  {
+    "objectID": "index.html#win-rate",
+    "href": "index.html#win-rate",
+    "title": "Brawlstars",
+    "section": "",
+    "text": "Clancy has the highest win rate at 67.3%."
   }
 ]
