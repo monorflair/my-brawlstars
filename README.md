@@ -1,1 +1,0 @@
-This the repository I have that hosts my website on Brawlstars.
