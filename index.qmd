@@ -1,7 +1,9 @@
 ---
-title: "my-brawlstars"
+title: "Brawlstars"
 ---
 
-This is a Quarto website.
+# Welcome to Brawl Stars Hub
+Your ultimate source for Brawl Stars strategies, updates, and community.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Win Rate
+Clancy has the highest win rate at 67.3%.
