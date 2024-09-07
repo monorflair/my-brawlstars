@@ -114,5 +114,5 @@ Description: Amber is a fire-based brawler who sprays flames in a continuous str
 Super Ability: Amber pours a large puddle of oil on the ground, which she can ignite to create a massive area of fire damage.
 
 ### Meg
-Description: Meg starts each match in a weak form but can transform into a powerful mech with high health and damage output. She switches between these two forms throughout the match.
-Super Ability: Meg calls down and enters her mech, gaining new abilities and increased stats until the mech is destroyed.
+Description: Meg starts each match in her mech from where she does a lot of damage and has a lot of health, but when you break her mech she enters her basic form where she has bad health bad damage but long range.
+Super Ability: Meg calls down and enters her mech, but if she already in her mech her super makes her mech swing it's arm damaging all oponents in it's way.
