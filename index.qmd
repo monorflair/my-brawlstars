@@ -90,6 +90,26 @@ Class: Mythic Brawler
 Description: Tara throws cards that spread out in a cone, dealing damage to all enemies they hit. She can hit multiple targets at once, making her great for dealing with groups.
 Super Ability: Tara's super pulls enemies toward the center of a black hole, grouping them together for follow-up attacks from her or her teammates.
 
+### Fang
+Class: Mythic Brawler
+Description: Fang is a martial artist brawler who throws sneakers as projectiles if he misses his kick.
+Super Ability: Fang performs a flying kick towards the nearest enemy, allowing him to quickly close distances and initiate combat.
+
+### Mortis
+Class: Mythic
+Description: Mortis is a dash-based brawler who attacks by dashing forward with his shovel. He's highly mobile and excels at ambushing and finishing off low-health enemies.
+Super Ability: Mortis swings his shovel in a wide arc, dealing damage and healing himself for each enemy hit.
+
+### Gene
+Class: Mythic Brawler
+Description: Gene fires a split attack that deals high damage at close range and spreads out at long range. He's versatile and can adapt to different situations.
+Super Ability: Gene launches a magical hand that pulls a single enemy towards him, great for isolating targets.
+
+### Max
+Class: Mythic Brawler
+Description: Max is a speedy brawler who fires a rapid stream of energy blasts. She excels at harassing enemies and can boost her team's speed.
+Super Ability: Max's super increases the movement speed of herself and nearby allies for a short duration.
+
 
 ## Legendary Brawlers:
 
@@ -116,3 +136,7 @@ Super Ability: Amber pours a large puddle of oil on the ground, which she can ig
 ### Meg
 Description: Meg starts each match in her mech from where she does a lot of damage and has a lot of health, but when you break her mech she enters her basic form where she has bad health bad damage but long range.
 Super Ability: Meg calls down and enters her mech, but if she already in her mech her super makes her mech swing it's arm damaging all oponents in it's way.
+
+### Draco
+Description: Draco thrusts his lance forward, piercing and damaging enemies in front of him, dealing more damage at max range.
+Super Ability: Draco enters his inflateble fire breathing Dragon and now burns his opponents, while in this form he has a 15 percent damage reduction and moves faster
