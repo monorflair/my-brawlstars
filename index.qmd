@@ -125,13 +125,25 @@ Super Ability: Crow jumps into the air and throws a barrage of poison daggers, d
 Description: Leon is a stealthy assassin, known for his fast movement and ability to turn invisible. His main attack throws out spinning blades in a wide cone, dealing more damage the closer they are to the target.
 Super Ability: Leon's super allows him to become invisible for a few seconds, making him difficult to track and allowing for surprise attacks.
 
+![.](imgs/leon.jpeg){width="100px"}
+
+        
 ### Sandy
 Description: Sandy throws sand in a wide arc, piercing through enemies and dealing damage over time. He excels at controlling large areas of the battlefield.
 Super Ability: Sandy creates a large sandstorm that makes all allies inside it invisible, great for team-wide stealth plays.
 
+
 ### Amber
 Description: Amber is a fire-based brawler who sprays flames in a continuous stream. She can ignite oil puddles on the ground for area denial.
 Super Ability: Amber pours a large puddle of oil on the ground, which she can ignite to create a massive area of fire damage.
+
+
+![.](imgs/Amber_Skin-Default.webp){width="100px"}
+
+<audio controls>
+  <source src="audios/Amber.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ### Meg
 Description: Meg starts each match in her mech from where she does a lot of damage and has a lot of health, but when you break her mech she enters her basic form where she has bad health bad damage but long range.
@@ -140,3 +152,6 @@ Super Ability: Meg calls down and enters her mech, but if she already in her mec
 ### Draco
 Description: Draco thrusts his lance forward, piercing and damaging enemies in front of him, dealing more damage at max range.
 Super Ability: Draco enters his inflateble fire breathing Dragon and now burns his opponents, while in this form he has a 15 percent damage reduction and moves faster
+
+
+
