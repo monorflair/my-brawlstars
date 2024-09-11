@@ -1,157 +1,162 @@
----
-title: "Brawlstars"
----
-
 # Welcome to Brawl Stars Hub
-Brawl Stars" is a fast-paced multiplayer online battle game developed by Supercell, the makers of popular games like Clash of Clans" and "Clash Royale. Launched globally in December 2018, it quickly got a large and dedicated player base. The game features various modes, each with diffrent objectives, such as Gem Grab, Showdown, and Brawl Ball, each needs different play styles. Players can choose from a diverse pile characters called Brawlers, each with diffrent abilities and superpowers, to compete in three-minute matches. The colorful graphics, and constant updates with new content keep the experience fresh and engaging. Whether you're teaming up with friends or battling solo, Brawl Stars offers an exciting and dynamic gaming experience that appeal is great to players of all ages.
+
+"Brawl Stars" is a fast-paced multiplayer online battle game developed by Supercell, the makers of popular games like "Clash of Clans" and "Clash Royale." Launched globally in December 2018, it quickly gained a large and dedicated player base. The game features various modes, each with different objectives, such as Gem Grab, Showdown, and Brawl Ball, each requiring different play styles. Players can choose from a diverse pile of characters called Brawlers, each with different abilities and superpowers, to compete in three-minute matches. The colorful graphics and constant updates with new content keep the experience fresh and engaging. Whether you're teaming up with friends or battling solo, Brawl Stars offers an exciting and dynamic gaming experience that appeals to players of all ages.
 
 ## Win Rate
 Clancy has the highest win rate at 67.3%.
-Starting Brawler:
 
-## 1. Shelly
-Class: Starting Brawler
-Description: Shelly is a balanced brawler with a wide-range shotgun attack. She excels at close-to-medium range combat, with her spread attack hitting multiple targets.
-Super Ability: Shelly's super unleashes a powerful blast that can break walls and push enemies back.
+## 1. Starting Brawler:
+
+### Shelly
+Class: Starting Brawler  
+Description: Shelly is a balanced brawler with a wide-range shotgun attack. She excels at close-to-medium range combat, with her spread attack hitting multiple targets.  
+Super Ability: Shelly's super unleashes a powerful blast that can break walls and push enemies back.  
+![Shelly](imgs/Shelly_Skin-Default.webp){width="100px"}
+
+---
 
 ## Rare Brawlers:
 
 ### Nita
-Class: Rare Brawler
-Description: Nita is a versatile fighter who summons a bear to assist her in combat. She attacks with shockwaves that can hit multiple enemies in a straight line.
-Super Ability: Nita's super summons a bear that chases enemies and deals melee damage, making her a powerful force in close-quarters combat.
+Class: Rare Brawler  
+Description: Nita is a versatile fighter who summons a bear to assist her in combat. She attacks with shockwaves that can hit multiple enemies in a straight line.  
+Super Ability: Nita's super summons a bear that chases enemies and deals melee damage, making her a powerful force in close-quarters combat.  
+![Nita](imgs/Nita_Skin-Default.webp){width="100px"}
 
 ### Colt
-Class: Rare Brawler
-Description: Colt fires a barrage of long-range bullets, dealing significant damage over time if he can land multiple hits. He has great range but needs to be precise with his shots.
-Super Ability: Colt's super fires a rapid stream of bullets that pierces through walls and enemies, making him a formidable damage dealer.
+Class: Rare Brawler  
+Description: Colt fires a barrage of long-range bullets, dealing significant damage over time if he can land multiple hits. He has great range but needs to be precise with his shots.  
+Super Ability: Colt's super fires a rapid stream of bullets that pierces through walls and enemies, making him a formidable damage dealer.  
+![Colt](imgs/Colt_Skin-Default.webp){width="100px"}
 
 ### Bull
-Class: Rare Brawler
-Description: Bull is a tough, close-range brawler with high health and a powerful shotgun. He excels at tanking damage and charging into fights, where he can deal massive damage up close.
-Super Ability: Bull's super allows him to charge forward, breaking walls and damaging enemies in his path.
-
+Class: Rare Brawler  
+Description: Bull is a tough, close-range brawler with high health and a powerful shotgun. He excels at tanking damage and charging into fights, where he can deal massive damage up close.  
+Super Ability: Bull's super allows him to charge forward, breaking walls and damaging enemies in his path.  
+![Bull](imgs/Bull_Skin-Default.webp){width="100px"}
 
 ### El Primo
-Class: Rare Brawler
-Description: El Primo is a tanky melee brawler with high health and strong punches. He thrives in close combat, where his attacks deal considerable damage.
-Super Ability: El Primo leaps into the air and slams down, dealing damage and knocking enemies away.
+Class: Rare Brawler  
+Description: El Primo is a tanky melee brawler with high health and strong punches. He thrives in close combat, where his attacks deal considerable damage.  
+Super Ability: El Primo leaps into the air and slams down, dealing damage and knocking enemies away.  
+![El Primo](imgs/ElPrimo_Skin-Default.webp){width="100px"}
 
 ### Poco
-Class: Rare Brawler
-Description: Poco is a support brawler who attacks with soundwaves from his guitar. His attacks have a wide range and can hit multiple enemies.
-Super Ability: Poco's super heals himself and nearby allies, making him an excellent support character in team fights.
+Class: Rare Brawler  
+Description: Poco is a support brawler who attacks with soundwaves from his guitar. His attacks have a wide range and can hit multiple enemies.  
+Super Ability: Poco's super heals himself and nearby allies, making him an excellent support character in team fights.  
+![Poco](imgs/Poco_Skin-Default.webp){width="100px"}
+
+---
 
 ## Super Rare Brawlers:
 
 ### 8-Bit
-Class: Super rare Brawler
-Description: 8-Bit is a slow-moving brawler with a high-damage laser attack. He has high health and great range, making him a solid damage dealer, but his slow speed can be a drawback.
-Super Ability: 8-Bit places a damage-boosting turret that increases the damage output of nearby allies.
+Class: Super Rare Brawler  
+Description: 8-Bit is a slow-moving brawler with a high-damage laser attack. He has high health and great range, making him a solid damage dealer, but his slow speed can be a drawback.  
+Super Ability: 8-Bit places a damage-boosting turret that increases the damage output of nearby allies.  
+![8-Bit](imgs/8Bit_Skin-Default.webp){width="100px"}
 
 ### Rico
-Class: Super Rare Brawler
-Description: Rico fires bouncy bullets that ricochet off walls and hit enemies in tricky angles. His ability to hit opponents around corners makes him a unique and challenging brawler to play.
-Super Ability: Rico's super unleashes a flurry of bouncing bullets that can cover a wide area and damage multiple enemies.
+Class: Super Rare Brawler  
+Description: Rico fires bouncy bullets that ricochet off walls and hit enemies in tricky angles. His ability to hit opponents around corners makes him a unique and challenging brawler to play.  
+Super Ability: Rico's super unleashes a flurry of bouncing bullets that can cover a wide area and damage multiple enemies.  
+![Rico](imgs/Rico_Skin-Default.webp){width="100px"}
 
 ### Darryl
-Class: Super Rare Brawler
-Description: Darryl is a tanky, shotgun-wielding brawler who excels in close-range combat. His high health makes him a great initiator for fights.
-Super Ability: Darryl's super is a rolling attack that allows him to quickly close the distance between him and his enemies, damaging anyone in his path.
+Class: Super Rare Brawler  
+Description: Darryl is a tanky, shotgun-wielding brawler who excels in close-range combat. His high health makes him a great initiator for fights.  
+Super Ability: Darryl's super is a rolling attack that allows him to quickly close the distance between him and his enemies, damaging anyone in his path.  
+![Darryl](imgs/Darryl_Skin-Default.webp){width="100px"}
 
 ### Dynamike
-Class: Super Rare Brawler
-Description: Dynamike is a long-range brawler who throws dynamite sticks that explode after a short delay, dealing area damage. He excels at controlling large spaces with his explosive attacks.
-Super Ability: Dynamike's super is a massive barrel of TNT that deals heavy damage in a large area, capable of destroying walls and enemy cover.
+Class: Super Rare Brawler  
+Description: Dynamike is a long-range brawler who throws dynamite sticks that explode after a short delay, dealing area damage. He excels at controlling large spaces with his explosive attacks.  
+Super Ability: Dynamike's super is a massive barrel of TNT that deals heavy damage in a large area, capable of destroying walls and enemy cover.  
+![Dynamike](imgs/Dynamike_Skin-Default.webp){width="100px"}
 
 ### Jessie
-Class: Super Rare Brawler
-Description: Jessie is a versatile brawler who uses an energy orb that bounces between enemies. Her attacks can deal damage to multiple targets if positioned correctly.
-Super Ability: Jessie's super summons a turret that shoots at enemies, providing additional firepower and support.
+Class: Super Rare Brawler  
+Description: Jessie is a versatile brawler who uses an energy orb that bounces between enemies. Her attacks can deal damage to multiple targets if positioned correctly.  
+Super Ability: Jessie's super summons a turret that shoots at enemies, providing additional firepower and support.  
+![Jessie](imgs/Jessie_Skin-Default.webp){width="100px"}
+
+---
 
 ## Epic Brawlers:
 
 ### Bo
-Class: Epic Brawler
-Description: Bo is a ranged attacker with explosive arrows. He has medium health and high attack potential. His arrows explode on impact, covering a wide area and damaging multiple enemies.
-Super Ability: Bo lays down hidden mines that explode when enemies step on them, making him great for area control.
+Class: Epic Brawler  
+Description: Bo is a ranged attacker with explosive arrows. He has medium health and high attack potential. His arrows explode on impact, covering a wide area and damaging multiple enemies.  
+Super Ability: Bo lays down hidden mines that explode when enemies step on them, making him great for area control.  
+![Bo](imgs/Bo_Skin-Default.webp){width="100px"}
 
 ### Edgar
-Class: Epic Brawler
-Description: Edgar is a fast, close-range brawler with a lifesteal mechanic. His punches allow him to recover some health with each hit.
-Super Ability: Edgar's super lets him jump over obstacles and enemies, allowing him to close the gap and engage enemies quickly.
+Class: Epic Brawler  
+Description: Edgar is a fast, close-range brawler with a lifesteal mechanic. His punches allow him to recover some health with each hit.  
+Super Ability: Edgar's super lets him jump over obstacles and enemies, allowing him to close the gap and engage enemies quickly.  
+![Edgar](imgs/Edgar_Skin-Default.webp){width="100px"}
 
+### Griff
+Class Mythic brawler
+Discription: Griff is a long ranged brawler who attack by throwing 3 waves of coins each wave having 3 coins.
+Super Ability: Griff throws out banknotes in a wide area that do more damage the further away the opponent is, but the banknotes are to valuable to give out, so they return to him damaging opponents in the area again
 
+---
 
 ## Mythic Brawlers:
 
 ### Tara
-Class: Mythic Brawler
-Description: Tara throws cards that spread out in a cone, dealing damage to all enemies they hit. She can hit multiple targets at once, making her great for dealing with groups.
-Super Ability: Tara's super pulls enemies toward the center of a black hole, grouping them together for follow-up attacks from her or her teammates.
+Class: Mythic Brawler  
+Description: Tara throws cards that spread out in a cone, dealing damage to all enemies they hit. She can hit multiple targets at once, making her great for dealing with groups.  
+Super Ability: Tara's super pulls enemies toward the center of a black hole, grouping them together for follow-up attacks from her or her teammates.  
+![Tara](imgs/Tara_Skin-Default.webp){width="100px"}
 
 ### Fang
-Class: Mythic Brawler
-Description: Fang is a martial artist brawler who throws sneakers as projectiles if he misses his kick.
-Super Ability: Fang performs a flying kick towards the nearest enemy, allowing him to quickly close distances and initiate combat.
+Class: Mythic Brawler  
+Description: Fang is a martial artist brawler who throws sneakers as projectiles if he misses his kick.  
+Super Ability: Fang performs a flying kick towards the nearest enemy, allowing him to quickly close distances and initiate combat.  
+![Fang](imgs/Fang_Skin-Default.webp){width="100px"}
 
 ### Mortis
-Class: Mythic
-Description: Mortis is a dash-based brawler who attacks by dashing forward with his shovel. He's highly mobile and excels at ambushing and finishing off low-health enemies.
-Super Ability: Mortis swings his shovel in a wide arc, dealing damage and healing himself for each enemy hit.
+Class: Mythic Brawler  
+Description: Mortis is a dash-based brawler who attacks by dashing forward with his shovel. He's highly mobile and excels at ambushing and finishing off low-health enemies.  
+Super Ability: Mortis swings his shovel in a wide arc, dealing damage and healing himself for each enemy hit.  
+![Mortis](imgs/Mortis_Skin-Default.webp){width="100px"}
 
-### Gene
-Class: Mythic Brawler
-Description: Gene fires a split attack that deals high damage at close range and spreads out at long range. He's versatile and can adapt to different situations.
-Super Ability: Gene launches a magical hand that pulls a single enemy towards him, great for isolating targets.
-
-### Max
-Class: Mythic Brawler
-Description: Max is a speedy brawler who fires a rapid stream of energy blasts. She excels at harassing enemies and can boost her team's speed.
-Super Ability: Max's super increases the movement speed of herself and nearby allies for a short duration.
-
+---
 
 ## Legendary Brawlers:
 
 ### Spike
-Description: Spike is a ranged brawler with a cactus grenade attack that explodes and releases spikes in all directions. His attacks are great for area control and damaging grouped-up enemies.
-Super Ability: Spike throws a slowing, damaging field that hinders enemy movement and deals damage over time.
+Description: Spike is a ranged brawler with a cactus grenade attack that explodes and releases spikes in all directions. His attacks are great for area control and damaging grouped-up enemies.  
+Super Ability: Spike throws a slowing, damaging field that hinders enemy movement and deals damage over time.  
+![Spike](imgs/Spike_Skin-Default.webp){width="100px"}
 
 ### Crow
-Description: Crow is a fast, ranged brawler who throws daggers coated in poison, dealing damage over time. His attacks are great for weakening enemies and forcing them to play more cautiously.
-Super Ability: Crow jumps into the air and throws a barrage of poison daggers, dealing damage upon landing and spreading poison to nearby enemies.
+Description: Crow is a fast, ranged brawler who throws daggers coated in poison, dealing damage over time. His attacks are great for weakening enemies and forcing them to play more cautiously.  
+Super Ability: Crow jumps into the air and throws a barrage of poison daggers, dealing damage upon landing and spreading poison to nearby enemies.  
+![Crow](imgs/Crow_Skin-Default.webp){width="100px"}
 
 ### Leon
-Description: Leon is a stealthy assassin, known for his fast movement and ability to turn invisible. His main attack throws out spinning blades in a wide cone, dealing more damage the closer they are to the target.
-Super Ability: Leon's super allows him to become invisible for a few seconds, making him difficult to track and allowing for surprise attacks.
-
-![.](imgs/leon.jpeg){width="100px"}
-
-        
-### Sandy
-Description: Sandy throws sand in a wide arc, piercing through enemies and dealing damage over time. He excels at controlling large areas of the battlefield.
-Super Ability: Sandy creates a large sandstorm that makes all allies inside it invisible, great for team-wide stealth plays.
+Description: Leon is a stealthy assassin, known for his fast movement and ability to turn invisible. His main attack throws out spinning blades in a wide cone, dealing more damage the closer they are to the target.  
+Super Ability: Leon's super allows him to become invisible for a few seconds, making him difficult to track and allowing for surprise attacks.  
+![Leon](imgs/Leon_Skin-Default.webp){width="100px"}
 
 
 ### Amber
-Description: Amber is a fire-based brawler who sprays flames in a continuous stream. She can ignite oil puddles on the ground for area denial.
-Super Ability: Amber pours a large puddle of oil on the ground, which she can ignite to create a massive area of fire damage.
+Description: Amber is a fire-based brawler who sprays flames in a continuous stream. She can ignite oil puddles on the ground for area denial.  
+Super Ability: Amber pours a large puddle of oil on the ground, which she can ignite to create a massive area of fire damage.  
+![Amber](imgs/Amber_Skin-Default.webp){width="100px"}
 
-
-![.](imgs/Amber_Skin-Default.webp){width="100px"}
-
-<audio controls>
-  <source src="audios/Amber.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<audio controls> <source src="audios/Amber.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
 
 ### Meg
-Description: Meg starts each match in her mech from where she does a lot of damage and has a lot of health, but when you break her mech she enters her basic form where she has bad health bad damage but long range.
-Super Ability: Meg calls down and enters her mech, but if she already in her mech her super makes her mech swing it's arm damaging all oponents in it's way.
+Description: Meg starts each match in her mech from where she does a lot of damage and has a lot of health, but when you break her mech she enters her basic form where she has bad health and bad damage but long range.  ![Meg](imgs/Meg_Minion-Default.webp){width="150px"}
+Super Ability: Meg calls down and enters her mech, but if she is already in her mech, her super makes her mech swing its arm, damaging all opponents in its way.  
+![Meg](imgs/Meg_Skin-Default.webp){width="100px"}
 
 ### Draco
-Description: Draco thrusts his lance forward, piercing and damaging enemies in front of him, dealing more damage at max range.
-Super Ability: Draco enters his inflateble fire breathing Dragon and now burns his opponents, while in this form he has a 15 percent damage reduction and moves faster
-
-
-
+Description: Draco thrusts his lance forward, piercing and damaging enemies in front of him, dealing more damage at max range.  
+Super Ability: Draco enters his inflatable fire-breathing Dragon and now burns his opponents, while in this form he has a 15% damage reduction and moves faster.  
+![Draco](imgs/Draco_Skin-Default.webp){width="100px"}
