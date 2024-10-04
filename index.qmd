@@ -1,12 +1,3 @@
-# Welcome to Brawl Stars Hub
-
-"Brawl Stars" is a fast-paced multiplayer online battle game developed by Supercell, the makers of popular games like "Clash of Clans" and "Clash Royale." Launched globally in December 2018, it quickly gained a large and dedicated player base. The game features various modes, each with different objectives, such as Gem Grab, Showdown, and Brawl Ball, each requiring different play styles. Players can choose from a diverse pile of characters called Brawlers, each with different abilities and superpowers, to compete in three-minute matches. The colorful graphics and constant updates with new content keep the experience fresh and engaging. Whether you're teaming up with friends or battling solo, Brawl Stars offers an exciting and dynamic gaming experience that appeals to players of all ages.
-
-## Win Rate
-Clancy has the highest win rate at 67.3%.
-
-## 1. Starting Brawler:
-
 ### Shelly
 Class: Starting Brawler  
 Description: Shelly is a balanced brawler with a wide-range shotgun attack. She excels at close-to-medium range combat, with her spread attack hitting multiple targets.  
@@ -55,19 +46,19 @@ Super Ability: Poco's super heals himself and nearby allies, making him an excel
 Class: Super Rare Brawler  
 Description: 8-Bit is a slow-moving brawler with a high-damage laser attack. He has high health and great range, making him a solid damage dealer, but his slow speed can be a drawback.  
 Super Ability: 8-Bit places a damage-boosting turret that increases the damage output of nearby allies.  
-![8-Bit](imgs/8Bit_Skin-Default.webp){width="100px"}
+![8-Bit](imgs/8-Bit_Skin-Default.webp){width="150px"}
 
 ### Rico
 Class: Super Rare Brawler  
 Description: Rico fires bouncy bullets that ricochet off walls and hit enemies in tricky angles. His ability to hit opponents around corners makes him a unique and challenging brawler to play.  
 Super Ability: Rico's super unleashes a flurry of bouncing bullets that can cover a wide area and damage multiple enemies.  
-![Rico](imgs/Rico_Skin-Default.webp){width="100px"}
+![Rico](imgs/Rico_Skin-Default.webp){width="125px"}
 
 ### Darryl
 Class: Super Rare Brawler  
 Description: Darryl is a tanky, shotgun-wielding brawler who excels in close-range combat. His high health makes him a great initiator for fights.  
 Super Ability: Darryl's super is a rolling attack that allows him to quickly close the distance between him and his enemies, damaging anyone in his path.  
-![Darryl](imgs/Darryl_Skin-Default.webp){width="100px"}
+![Darryl](imgs/Darryl_Skin-Default.webp){width="150px"}
 
 ### Dynamike
 Class: Super Rare Brawler  
@@ -98,9 +89,10 @@ Super Ability: Edgar's super lets him jump over obstacles and enemies, allowing 
 ![Edgar](imgs/Edgar_Skin-Default.webp){width="100px"}
 
 ### Griff
-Class Mythic brawler
-Discription: Griff is a long ranged brawler who attack by throwing 3 waves of coins each wave having 3 coins.
-Super Ability: Griff throws out banknotes in a wide area that do more damage the further away the opponent is, but the banknotes are to valuable to give out, so they return to him damaging opponents in the area again
+Class: Epic Brawler  
+Description: Griff is a long-ranged brawler who attacks by throwing 3 waves of coins, each wave having 3 coins.  
+Super Ability: Griff throws out banknotes in a wide area that do more damage the further away the opponent is, but the banknotes return to him, damaging opponents in the area again.  
+![Griff](imgs/Griff_Skin-Default.webp){width="100px"}
 
 ---
 
@@ -109,52 +101,56 @@ Super Ability: Griff throws out banknotes in a wide area that do more damage the
 ### Tara
 Class: Mythic Brawler  
 Description: Tara throws cards that spread out in a cone, dealing damage to all enemies they hit. She can hit multiple targets at once, making her great for dealing with groups.  
-Super Ability: Tara's super pulls enemies toward the center of a black hole, grouping them together for follow-up attacks from her or her teammates.  
+Super Ability: Tara's super pulls enemies toward the center of a black hole, grouping them together and then it explodes nocking them back .  
 ![Tara](imgs/Tara_Skin-Default.webp){width="100px"}
 
 ### Fang
 Class: Mythic Brawler  
 Description: Fang is a martial artist brawler who throws sneakers as projectiles if he misses his kick.  
-Super Ability: Fang performs a flying kick towards the nearest enemy, allowing him to quickly close distances and initiate combat.  
+Super Ability: Fang dashes forward in a flying kick, if he hits a brawler and there is another one close by he bounces of the one he hits first to kick the next.  
 ![Fang](imgs/Fang_Skin-Default.webp){width="100px"}
 
 ### Mortis
 Class: Mythic Brawler  
 Description: Mortis is a dash-based brawler who attacks by dashing forward with his shovel. He's highly mobile and excels at ambushing and finishing off low-health enemies.  
-Super Ability: Mortis swings his shovel in a wide arc, dealing damage and healing himself for each enemy hit.  
-![Mortis](imgs/Mortis_Skin-Default.webp){width="100px"}
+Super Ability: Mortis swings his shovel sending a wave of bats in a straight, dealing damage and healing himself for each enemy hit.  
+![Mortis](imgs/Mortis_Skin-Default.webp){width="200px"}
 
 ---
 
 ## Legendary Brawlers:
 
 ### Spike
+Class: Legendary Brawler  
 Description: Spike is a ranged brawler with a cactus grenade attack that explodes and releases spikes in all directions. His attacks are great for area control and damaging grouped-up enemies.  
 Super Ability: Spike throws a slowing, damaging field that hinders enemy movement and deals damage over time.  
 ![Spike](imgs/Spike_Skin-Default.webp){width="100px"}
 
 ### Crow
+Class: Legendary Brawler  
 Description: Crow is a fast, ranged brawler who throws daggers coated in poison, dealing damage over time. His attacks are great for weakening enemies and forcing them to play more cautiously.  
 Super Ability: Crow jumps into the air and throws a barrage of poison daggers, dealing damage upon landing and spreading poison to nearby enemies.  
 ![Crow](imgs/Crow_Skin-Default.webp){width="100px"}
 
 ### Leon
+Class: Legendary Brawler  
 Description: Leon is a stealthy assassin, known for his fast movement and ability to turn invisible. His main attack throws out spinning blades in a wide cone, dealing more damage the closer they are to the target.  
 Super Ability: Leon's super allows him to become invisible for a few seconds, making him difficult to track and allowing for surprise attacks.  
 ![Leon](imgs/Leon_Skin-Default.webp){width="100px"}
 
 
 ### Amber
+Class: Legendary Brawler  
 Description: Amber is a fire-based brawler who sprays flames in a continuous stream. She can ignite oil puddles on the ground for area denial.  
 Super Ability: Amber pours a large puddle of oil on the ground, which she can ignite to create a massive area of fire damage.  
 ![Amber](imgs/Amber_Skin-Default.webp){width="100px"}
 
-<audio controls> <source src="audios/Amber.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
-
 ### Meg
-Description: Meg starts each match in her mech from where she does a lot of damage and has a lot of health, but when you break her mech she enters her basic form where she has bad health and bad damage but long range.  ![Meg](imgs/Meg_Minion-Default.webp){width="150px"}
-Super Ability: Meg calls down and enters her mech, but if she is already in her mech, her super makes her mech swing its arm, damaging all opponents in its way.  
-![Meg](imgs/Meg_Skin-Default.webp){width="100px"}
+Class: Legendary Brawler  
+Description: Meg starts each match in her mech, where she deals significant damage and has high health. Once her mech breaks, she enters her basic form, which has lower health and damage but longer range. 
+Super Ability: Meg calls down and enters her mech, but if she is already in her mech, her super makes the mech swing its arm, damaging all opponents in its way.  
+![Meg](imgs/Meg_Skin-Default.webp){width="100px"}  ![Meg minion](imgs/Meg_Minion-Default.webp){width="200px"}
+
 
 ### Draco
 Description: Draco thrusts his lance forward, piercing and damaging enemies in front of him, dealing more damage at max range.  
