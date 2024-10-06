@@ -4,12 +4,13 @@ Description: Shelly is a balanced brawler with a wide-range shotgun attack. She 
 Super Ability: Shelly's super unleashes a powerful blast that can break walls and push enemies back.  
 
 #### Star Powers:
-- **Shell Shock:** Shelly's Super slows down enemies for 2.5 seconds.
-- **Band-Aid:** When Shelly falls below 40% health, she instantly heals for 1800 health. Band-Aid recharges in 15 seconds.
+- Shell Shock: Shelly's Super slows down enemies for 2.5 seconds.
+- Band-Aid: When Shelly falls below 40% health, she instantly heals for 1800 health. Band-Aid recharges in 15 seconds.
 
 ![Shelly](imgs/Shelly_Skin-Default.webp){width="100px"}
 
 ---
+## Rare Brawlers
 
 ### Nita
 Class: Rare Brawler  
@@ -17,8 +18,8 @@ Description: Nita is a versatile fighter who summons a bear to assist her in com
 Super Ability: Nita's super summons a bear that chases enemies and deals melee damage, making her a powerful force in close-quarters combat.  
 
 #### Star Powers:
-- **Bear With Me:** When Nita or her Bear deal damage, Nita and her Bear both heal for 500 health.
-- **Hyper Bear:** Nita's Bear attacks much faster, decreasing time between attacks by 60%.
+- Bear With Me: When Nita or her Bear deal damage, Nita and her Bear both heal for 1020 health.
+- Hyper Bear: Nita's Bear attacks much faster, decreasing time between attacks by 60%.
 
 ![Nita](imgs/Nita_Skin-Default.webp){width="100px"}
 
@@ -30,8 +31,8 @@ Description: Colt fires a barrage of long-range bullets, dealing significant dam
 Super Ability: Colt's super fires a rapid stream of bullets that pierces through walls and enemies, making him a formidable damage dealer.  
 
 #### Star Powers:
-- **Slick Boots:** Colt's movement speed is increased by 11%.
-- **Magnum Special:** Colt's attack range is increased by 11% and his bullets travel 11% faster.
+- Slick Boots: Colt's movement speed is increased by 13%.
+- Magnum Special: Colt's attack range is increased by 11% and his bullets travel 11% faster.
 
 ![Colt](imgs/Colt_Skin-Default.webp){width="100px"}
 
@@ -43,8 +44,8 @@ Description: Bull is a tough, close-range brawler with high health and a powerfu
 Super Ability: Bull's super allows him to charge forward, breaking walls and damaging enemies in his path.  
 
 #### Star Powers:
-- **Berserker:** When Bull falls below 60% health, his reload speed is increased by 35%.
-- **Tough Guy:** Bull gains a shield that reduces damage by 30% when he falls below 40% health.
+- Berserker: When Bull falls below 60% health, his reload speed is increased by 35%.
+- Tough Guy: Bull gains a shield that reduces damage by 30% when he falls below 40% health.
 
 ![Bull](imgs/Bull_Skin-Default.webp){width="100px"}
 
@@ -56,8 +57,8 @@ Description: El Primo is a tanky melee brawler with high health and strong punch
 Super Ability: El Primo leaps into the air and slams down, dealing damage and knocking enemies away.  
 
 #### Star Powers:
-- **El Fuego:** El Primo's Super leaves a trail of fire, dealing 1200 damage over 4 seconds to enemies.
-- **Meteor Rush:** El Primo gains a 32% speed boost for 5 seconds after using his Super.
+- El Fuego: El Primo's Super leaves a trail of fire, dealing 1200 damage over 4 seconds to enemies.
+- Meteor Rush: El Primo gains a 32% speed boost for 5 seconds after using his Super.
 
 ![El Primo](imgs/ElPrimo_Skin-Default.webp){width="100px"}
 
@@ -69,12 +70,13 @@ Description: Poco is a support brawler who attacks with soundwaves from his guit
 Super Ability: Poco's super heals himself and nearby allies, making him an excellent support character in team fights.  
 
 #### Star Powers:
-- **Da Capo!:** Poco's main attack heals teammates for 700 health.
-- **Screeching Solo:** Poco's Super now deals 800 damage to enemies.
+- Da Capo!: Poco's main attack heals teammates for 700 health.
+- Screeching Solo: Poco's Super now deals 800 damage to enemies.
 
 ![Poco](imgs/Poco_Skin-Default.webp){width="100px"}
 
 ---
+## Superrare Brawlers
 
 ### 8-Bit
 Class: Super Rare Brawler  
@@ -82,8 +84,8 @@ Description: 8-Bit is a slow-moving brawler with a high-damage laser attack. He 
 Super Ability: 8-Bit places a damage-boosting turret that increases the damage output of nearby allies.  
 
 #### Star Powers:
-- **Boosted Booster:** 8-Bit's damage-boosting turret now has a 50% larger radius.
-- **Plugged In:** 8-Bit moves significantly faster while near his turret.
+- Boosted Booster: 8-Bit's damage-boosting turret now has a 50% larger radius.
+- Plugged In: 8-Bit moves significantly faster while near his turret.
 
 ![8-Bit](imgs/8Bit_Skin-Default.webp){width="100px"}
 
@@ -95,8 +97,8 @@ Description: Rico fires bouncy bullets that ricochet off walls and hit enemies i
 Super Ability: Rico's super unleashes a flurry of bouncing bullets that can cover a wide area and damage multiple enemies.  
 
 #### Star Powers:
-- **Super Bouncy:** Rico's bullets deal 100 extra damage after bouncing.
-- **Robo Retreat:** Rico gains a speed boost when below 40% health.
+- Super Bouncy: Rico's bullets deal 100 extra damage after bouncing.
+- Robo Retreat: Rico gains a speed boost when below 40% health.
 
 ![Rico](imgs/Rico_Skin-Default.webp){width="100px"}
 
@@ -108,8 +110,8 @@ Description: Darryl is a tanky, shotgun-wielding brawler who excels in close-ran
 Super Ability: Darryl's super is a rolling attack that allows him to quickly close the distance between him and his enemies, damaging anyone in his path.  
 
 #### Star Powers:
-- **Steel Hoops:** Darryl gains a shield that reduces damage by 90% for 0.9 seconds when using his Super.
-- **Rolling Reload:** Darryl's reload speed is doubled for 5 seconds after using his Super.
+- Steel Hoops: Darryl gains a shield that reduces damage by 90% for 0.9 seconds when using his Super.
+- Rolling Reload: Darryl's reload speed is doubled for 5 seconds after using his Super.
 
 ![Darryl](imgs/Darryl_Skin-Default.webp){width="100px"}
 
@@ -121,8 +123,8 @@ Description: Dynamike is a long-range brawler who throws dynamite sticks that ex
 Super Ability: Dynamike's super is a massive barrel of TNT that deals heavy damage in a large area, capable of destroying walls and enemy cover.  
 
 #### Star Powers:
-- **Dyna-Jump:** Dynamike can jump over his own bombs.
-- **Demolition:** Dynamike's Super deals 1000 extra damage.
+- Dyna-Jump: Dynamike can jump over his own bombs.
+- Demolition: Dynamike's Super deals 1000 extra damage.
 
 ![Dynamike](imgs/Dynamike_Skin-Default.webp){width="100px"}
 
@@ -134,12 +136,13 @@ Description: Jessie is a versatile brawler who uses an energy orb that bounces b
 Super Ability: Jessie's super summons a turret that shoots at enemies, providing additional firepower and support.  
 
 #### Star Powers:
-- **Energize:** Jessie's shots that hit her turret heal it for 800 health.
-- **Shocky:** Jessie's turret's shots bounce between enemies.
+- Energize: Jessie's shots that hit her turret heal it for 800 health.
+- Shocky: Jessie's turret's shots bounce between enemies.
 
 ![Jessie](imgs/Jessie_Skin-Default.webp){width="100px"}
 
 ---
+### Epic Brawlers
 
 ### Bo
 Class: Epic Brawler  
@@ -147,8 +150,8 @@ Description: Bo is a ranged attacker with explosive arrows. He has medium health
 Super Ability: Bo lays down hidden mines that explode when enemies step on them, making him great for area control.  
 
 #### Star Powers:
-- **Circling Eagle:** Bo can see enemies hiding in bushes from much further away.
-- **Snare a Bear:** Bo's mines stun enemies for 2 seconds when triggered.
+- Circling Eagle: Bo can see enemies hiding in bushes from much further away.
+- Snare a Bear: Bo's mines stun enemies for 2 seconds when triggered.
 
 ![Bo](imgs/Bo_Skin-Default.webp){width="100px"}
 
@@ -160,8 +163,8 @@ Description: Edgar is a fast, close-range brawler with a lifesteal mechanic. His
 Super Ability: Edgar's super lets him jump over obstacles and enemies, allowing him to close the gap and engage enemies quickly.  
 
 #### Star Powers:
-- **Hard Landing:** Edgar deals 1000 damage to nearby enemies when he lands after using his Super.
-- **Fisticuffs:** Edgar heals 25% more from his attacks.
+- Hard Landing: Edgar deals 1000 damage to nearby enemies when he lands after using his Super.
+- Fisticuffs: Edgar heals 25% more from his attacks.
 
 ![Edgar](imgs/Edgar_Skin-Default.webp){width="100px"}
 
@@ -173,12 +176,13 @@ Description: Griff is a long-ranged brawler who attacks by throwing 3 waves of c
 Super Ability: Griff throws out banknotes in a wide area that do more damage the further away the opponent is, but the banknotes return to him, damaging opponents in the area again.  
 
 #### Star Powers:
-- **Keep the Change:** Griff's coins from his main attack now pierce through enemies.
-- **Business Resilience:** Griff gains a shield that reduces damage by 30% when he falls below 40% health.
+- Keep the Change: Griff's coins from his main attack now pierce through enemies.
+- Business Resilience: Griff gains a shield that reduces damage by 30% when he falls below 40% health.
 
 ![Griff](imgs/Griff_Skin-Default.webp){width="100px"}
 
 ---
+### Mythic
 
 ### Tara
 Class: Mythic Brawler  
@@ -186,21 +190,21 @@ Description: Tara throws cards that spread out in a cone, dealing damage to all 
 Super Ability: Tara's super pulls enemies toward the center of a black hole, grouping them together for follow-up attacks from her or her teammates.  
 
 #### Star Powers:
-- **Black Portal:** When Tara's Super ends, it spawns a shadow clone of herself.
-- **Healing Shade:** Tara's shadow heals herself and nearby allies for 400 health per second.
+- Black Portal: When Tara's Super ends, it spawns a shadow clone of herself.
+- Healing Shade: Tara's shadow heals herself and nearby allies for 400 health per second.
 
 ![Tara](imgs/Tara_Skin-Default.webp){width="100px"}
 
 ---
 
 ### Fang
-Class: Chromatic Brawler  
+Class: Mythic Brawler  
 Description: Fang is a close-range brawler who kicks enemies, dealing damage in a wide arc. His kicks can hit multiple enemies in one attack.  
 Super Ability: Fang's super lets him dash forward, damaging the first enemy he hits. If Fang defeats an enemy with his Super, it is recharged.  
 
 #### Star Powers:
-- **Fresh Kicks:** Fang's Super recharges 25% whenever he defeats an enemy brawler with his Super.
-- **Divine Soles:** Fang gains a shield that reduces damage by 30% for 4 seconds after using his Super.
+- Fresh Kicks: Fang's Super recharges 25% whenever he defeats an enemy brawler with his Super.
+- Divine Soles: Fang gains a shield that reduces damage by 30% for 4 seconds after using his Super.
 
 ![Fang](imgs/Fang_Skin-Default.webp){width="100px"}
 
@@ -212,12 +216,13 @@ Description: Mortis is a melee brawler who dashes toward enemies, dealing damage
 Super Ability: Mortis' super unleashes a swarm of bats that damage enemies and heal Mortis for the damage dealt.  
 
 #### Star Powers:
-- **Creepy Harvest:** Mortis heals 1800 health after defeating an enemy brawler.
-- **Coiled Snake:** Mortis's dash range is increased by 75% when his attack bar is fully charged.
+- Creepy Harvest: Mortis heals 1800 health after defeating an enemy brawler.
+- Coiled Snake: Mortis's dash range is increased by 75% when his attack bar is fully charged.
 
 ![Mortis](imgs/Mortis_Skin-Default.webp){width="100px"}
 
 ---
+Legendary Brawlwers
 
 ### Spike
 Class: Legendary Brawler  
@@ -225,8 +230,8 @@ Description: Spike is a long-range brawler who throws spikes that explode in a s
 Super Ability: Spike's super creates an area of spikes that slows and damages enemies caught in it.  
 
 #### Star Powers:
-- **Fertilize:** Spike heals 500 health per second when inside his Super's area of effect.
-- **Curveball:** Spike's projectiles curve at the end of their trajectory.
+- Fertilize: Spike heals 500 health per second when inside his Super's area of effect.
+- Curveball: Spike's projectiles curve at the end of their trajectory.
 
 ![Spike](imgs/Spike_Skin-Default.webp){width="100px"}
 
@@ -238,8 +243,8 @@ Description: Crow is a fast-moving, long-range brawler who poisons enemies with 
 Super Ability: Crow's super lets him jump into the air and deal damage to enemies when he lands.  
 
 #### Star Powers:
-- **Extra Toxic:** Crow's poison reduces the damage enemies deal by 25%.
-- **Carrion Crow:** Crow deals 120 extra damage to enemies below 50% health.
+- Extra Toxic: Crow's poison reduces the damage enemies deal by 25%.
+- Carrion Crow: Crow deals 120 extra damage to enemies below 50% health.
 
 ![Crow](imgs/Crow_Skin-Default.webp){width="100px"}
 
@@ -251,8 +256,8 @@ Description: Leon is a stealthy brawler who throws sharp blades in a wide arc. H
 Super Ability: Leon's super turns him invisible for a short period, allowing him to sneak up on enemies or escape danger.  
 
 #### Star Powers:
-- **Smoke Trails:** Leon gains a 24% speed boost while invisible.
-- **Invisiheal:** Leon heals 1000 health per second while invisible.
+- Smoke Trails: Leon gains a 24% speed boost while invisible.
+- Invisiheal: Leon heals 1000 health per second while invisible.
 
 ![Leon](imgs/Leon_Skin-Default.webp){width="100px"}
 
@@ -264,8 +269,8 @@ Description: Amber is a fire-wielding brawler who attacks by spraying flames in 
 Super Ability: Amber's super creates a pool of oil that can be ignited to deal damage to enemies standing in it.  
 
 #### Star Powers:
-- **Wild Flames:** Amber's Super lasts 3 seconds longer.
-- **Scorchin' Siphon:** Amber's movement speed is increased by 11% when her ammo is above 50%.
+- Wild Flames: Amber's Super lasts 3 seconds longer.
+- Scorchin' Siphon: Amber's movement speed is increased by 11% when her ammo is above 50%.
 
 ![Amber](imgs/Amber_Skin-Default.webp){width="100px"}
 
@@ -277,21 +282,21 @@ Description: Meg is a brawler who can transform into a mech with increased healt
 Super Ability: Meg's super transforms her into a powerful mech with a long-range attack and the ability to fire a powerful laser.  
 
 #### Star Powers:
-- **Force Field:** When Meg ejects from her mech, she gains a shield that absorbs 35% of all damage for 30 seconds.
-- **Self Destruct:** When Meg's mech is destroyed, it explodes, dealing 1500 damage to nearby enemies.
+- Force Field: When Meg ejects from her mech, she gains a shield that absorbs 35% of all damage for 30 seconds.
+- Self Destruct: When Meg's mech is destroyed, it explodes, dealing 1500 damage to nearby enemies.
 
 ![Meg](imgs/Meg_Skin-Default.webp){width="100px"}
 
 ---
 
 ### Draco
-Class: Chromatic Brawler  
+Class: legendary Brawler  
 Description: Draco is a powerful brawler who can transform into a dragon, gaining increased damage and area control.  
 Super Ability: Draco's super transforms him into a dragon, where his attacks deal more damage and he gains more health.  
 
 #### Star Powers:
-- **Expose:** Every 5 seconds, the next attack exposes enemies on hit. Exposed enemies take 35% increased damage for 5 seconds.
-- **Shredding:** When Draco uses his Super, he recovers 2750 health.
+- Expose: Every 5 seconds, the next attack exposes enemies on hit. Exposed enemies take 35% increased damage for 5 seconds.
+- Shredding: When Draco uses his Super, he recovers 2750 health.
 
 ![Draco](imgs/Draco_Skin-Default.webp){width="100px"}
 
