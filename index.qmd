@@ -142,7 +142,7 @@ Super Ability: Jessie's super summons a turret that shoots at enemies, providing
 ![Jessie](imgs/Jessie_SkinDefault.webp){width="100px"}
 
 
-### Epic Brawlers
+## Epic Brawlers
 
 ### Bo
 Class: Epic Brawler  
@@ -182,7 +182,7 @@ Super Ability: Griff throws out banknotes in a wide area that do more damage the
 ![Griff](imgs/Griff_SkinDefault.webp){width="100px"}
 
 
-### Mythic
+## Mythic
 
 ### Tara
 Class: Mythic Brawler  
@@ -222,7 +222,7 @@ Super Ability: Mortis' super unleashes a swarm of bats that damage enemies and h
 ![Mortis](imgs/Mortis_SkinDefault.webp){width="100px"}
 
 
-Legendary Brawlwers
+## Legendary Brawlwers
 
 ### Spike
 Class: Legendary Brawler  
