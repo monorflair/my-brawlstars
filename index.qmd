@@ -1,125 +1,169 @@
 ### Shelly  
 Class: Common Damage Dealer  
-Description: Shelly is a balanced brawler with a widerange shotgun attack. She excels at closetomedium range combat, with her spread attack hitting multiple targets.  
+Description: Shelly is a balanced brawler with a wide-range shotgun attack. She excels at close-to-medium range combat, with her spread attack hitting multiple targets.  
 Super Ability: Shelly's super unleashes a powerful blast that can break walls and push enemies back.  
 
-#### Star Powers:
- Shell Shock: Shelly's Super slows down enemies for 2.5 seconds.
- BandAid: When Shelly falls below 40% health, she instantly heals for 1800 health. BandAid recharges in 15 seconds.
+#### Gadgets:
+Fast Forward**: Shelly dashes forward a short distance.  
+Clay Pigeons**: Shelly’s next main attack has a narrower spread and longer range.  
 
-![Shelly](imgs/Shelly_Skin-Default.webp){width="100px"}
+#### Star Powers:
+Shell Shock**: Shelly's Super slows down enemies for 2.5 seconds.  
+Band-Aid**: When Shelly falls below 40% health, she instantly heals for 2220 health. Band-Aid recharges in 15 seconds.  
+
+![Shelly](imgs/Shelly_Skin-Default.webp){width="100px"}  
 
 ## Rare Brawlers
 
 ### Nita  
-Class: Rare Damage dealer  
+Class: Rare Damage Dealer  
 Description: Nita is a versatile fighter who summons a bear to assist her in combat. She attacks with shockwaves that can hit multiple enemies in a straight line.  
-Super Ability: Nita's super summons a bear that chases enemies and deals melee damage, making her a powerful force in closequarters combat.
+Super Ability: Nita's super summons a bear that chases enemies and deals melee damage, making her a powerful force in close-quarters combat.  
+
+#### Gadgets:
+Bear Paws**: Nita’s bear stuns enemies for 1 second.  
+Faux Fur**: Nita’s bear gains a shield that reduces damage by 35% for 3 seconds.  
 
 #### Star Powers:
- Bear With Me: When Nita or her Bear deal damage, Nita and her Bear both heal for 1040 health.
- Hyper Bear: Nita's Bear attacks much faster, decreasing time between attacks by 60%.
+Bear With Me**: When Nita or her Bear deal damage, Nita and her Bear both heal for 1040 health.  
+Hyper Bear**: Nita's Bear attacks much faster, decreasing time between attacks by 60%.  
 
-![Nita](imgs/Nita_Skin-Default.webp){width="100px"}
+![Nita](imgs/Nita_Skin-Default.webp){width="100px"}  
 
 ### Colt  
 Class: Rare Damage Dealer  
-Description: Colt fires a barrage of longrange bullets, dealing significant damage over time if he can land multiple hits. He has great range but needs to be precise with his shots.  
+Description: Colt fires a barrage of long-range bullets, dealing significant damage over time if he can land multiple hits. He has great range but needs to be precise with his shots.  
 Super Ability: Colt's super fires a rapid stream of bullets that pierces through walls and enemies, making him a formidable damage dealer.  
 
-#### Star Powers:
- Slick Boots: Colt's movement speed is increased by 13%.
- Magnum Special: Colt's attack range is increased by 11% and his bullets travel 11% faster.
+#### Gadgets:
+Speedloader**: Colt instantly reloads 2 ammo.  
+Silver Bullet**: Colt’s next attack is a powerful shot that deals 2000 damage and pierces through walls.  
 
-![Colt](imgs/Colt_Skin-Default.webp){width="100px"}
+#### Star Powers:
+Slick Boots**: Colt's movement speed is increased by 13%.  
+Magnum Special**: Colt's attack range is increased by 11% and his bullets travel 11% faster.  
+
+![Colt](imgs/Colt_Skin-Default.webp){width="100px"}  
 
 ### Bull  
 Class: Rare Tank  
-Description: Bull is a tough, closerange brawler with high health and a powerful shotgun. He excels at tanking damage and charging into fights, where he can deal massive damage up close.  
+Description: Bull is a tough, close-range brawler with high health and a powerful shotgun. He excels at tanking damage and charging into fights, where he can deal massive damage up close.  
 Super Ability: Bull's super allows him to charge forward, breaking walls and damaging enemies in his path.  
 
-#### Star Powers:
- Berserker: When Bull falls below 60% health, his reload speed is increased by 35%.
- Tough Guy: Bull gains a shield that reduces damage by 30% when he falls below 40% health.
+#### Gadgets:
+T-Bone Injector**: Bull instantly heals for 1500 health.  
+Stomper**: Bull can stop his Super charge, stunning nearby enemies for 1.5 seconds.  
 
-![Bull](imgs/Bull_Skin-Default.webp){width="100px"}
+#### Star Powers:
+Berserker**: When Bull falls below 60% health, his reload speed is increased by 35%.  
+Tough Guy**: Bull gains a shield that reduces damage by 30% when he falls below 40% health.  
+
+![Bull](imgs/Bull_Skin-Default.webp){width="100px"}  
 
 ### El Primo  
 Class: Rare Tank  
 Description: El Primo is a tanky melee brawler with high health and strong punches. He thrives in close combat, where his attacks deal considerable damage.  
 Super Ability: El Primo leaps into the air and slams down, dealing damage and knocking enemies away.  
 
-#### Star Powers:
- El Fuego: El Primo's Super leaves a trail of fire, dealing 1200 damage over 4 seconds to enemies.
- Meteor Rush: El Primo gains a 32% speed boost for 5 seconds after using his Super.
+#### Gadgets:
+Suplex Supplement**: El Primo grabs the closest enemy and throws them behind him.  
+Asteroid Belt**: El Primo calls down a small meteor to strike a targeted area, dealing 2000 damage.  
 
-![El Primo](imgs/ElPrimo_Skin-Default.webp){width="100px"}
+#### Star Powers:
+El Fuego**: El Primo's Super leaves a trail of fire, dealing 1200 damage over 4 seconds to enemies.  
+Meteor Rush**: El Primo gains a 32% speed boost for 5 seconds after using his Super.  
+
+![El Primo](imgs/ElPrimo_Skin-Default.webp){width="100px"}  
 
 ### Poco  
 Class: Rare Support  
 Description: Poco is a support brawler who attacks with soundwaves from his guitar. His attacks have a wide range and can hit multiple enemies.  
 Super Ability: Poco's super heals himself and nearby allies, making him an excellent support character in team fights.  
 
-#### Star Powers:
- Da Capo!: Poco's main attack heals teammates for 700 health.
- Screeching Solo: Poco's Super now deals 1250 damage to enemies.
-
-![Poco](imgs/Poco_Skin-Default.webp){width="100px"}
-
-## Superrare Brawlers
-
-### 8Bit  
-Class: SuperRare Damage Dealer  
-Description: 8Bit is a slowmoving brawler with a highdamage laser attack. He has high health and great range, making him a solid damage dealer, but his slow speed can be a drawback.  
-Super Ability: 8Bit places a damageboosting turret that increases the damage output of nearby allies.  
+#### Gadgets:
+Tuning Fork**: Poco heals himself and nearby allies for 1000 health over 5 seconds.  
+Protective Tunes**: Removes all negative status effects from nearby teammates (stun, slow, poison).  
 
 #### Star Powers:
- Boosted Booster: 8Bit's damageboosting turret now has a 50% larger radius.
- Plugged In: 8Bit moves significantly faster while near his turret.
+Da Capo!**: Poco's main attack heals teammates for 700 health.  
+Screeching Solo**: Poco's Super now deals 1250 damage to enemies.  
 
-![8Bit](imgs/8Bit_Skin-Default.webp){width="100px"}
+![Poco](imgs/Poco_Skin-Default.webp){width="100px"}  
+
+## Super Rare Brawlers
+
+### 8-Bit  
+Class: Super Rare Damage Dealer  
+Description: 8-Bit is a slow-moving brawler with a high-damage laser attack. He has high health and great range, making him a solid damage dealer, but his slow speed can be a drawback.  
+Super Ability: 8-Bit places a damage-boosting turret that increases the damage output of nearby allies.  
+
+#### Gadgets:
+Cheat Cartridge**: 8-Bit instantly teleports to his turret.  
+Extra Credits**: 8-Bit’s next attack shoots twice as many projectiles.  
+
+#### Star Powers:
+Boosted Booster**: 8-Bit’s damage-boosting turret now has a 50% larger radius.  
+Plugged In**: 8-Bit moves significantly faster while near his turret.  
+
+![8Bit](imgs/8Bit_Skin-Default.webp){width="100px"}  
 
 ### Rico  
-Class: SuperRare Damage Dealer  
+Class: Super Rare Damage Dealer  
 Description: Rico fires bouncy bullets that ricochet off walls and hit enemies in tricky angles. His ability to hit opponents around corners makes him a unique and challenging brawler to play.  
 Super Ability: Rico's super unleashes a flurry of bouncing bullets that can cover a wide area and damage multiple enemies.  
 
-#### Star Powers:
- Super Bouncy: Rico's bullets deal 100 extra damage after bouncing.
- Robo Retreat: Rico gains a speed boost when below 40% health.
+#### Gadgets:
+Multi Ball Launcher**: Rico fires two waves of bouncy bullets in all directions.  
+Bouncy Castle**: Rico heals for 300 health per bullet that bounces off a wall.  
 
-![Rico](imgs/Rico_Skin-Default.webp){width="100px"}
+#### Star Powers:
+Super Bouncy**: Rico's bullets deal 100 extra damage after bouncing.  
+Robo Retreat**: Rico gains a speed boost when below 40% health.  
+
+![Rico](imgs/Rico_Skin-Default.webp){width="100px"}  
 
 ### Darryl  
-Class: SuperRare Tank  
-Description: Darryl is a tanky, shotgunwielding brawler who excels in closerange combat. His high health makes him a great initiator for fights.  
+Class: Super Rare Tank  
+Description: Darryl is a tanky, shotgun-wielding brawler who excels in close-range combat. His high health makes him a great initiator for fights.  
 Super Ability: Darryl's super is a rolling attack that allows him to quickly close the distance between him and his enemies, damaging anyone in his path.  
 
-#### Star Powers:
- Steel Hoops: Darryl gains a shield that reduces damage by 90% for 0.9 seconds when using his Super.
- Rolling Reload: Darryl's reload speed is doubled for 5 seconds after using his Super.
+#### Gadgets:
+Recoiling Rotator**: Darryl spins, firing his shotguns in all directions.  
+Tar Barrel**: Darryl drops a slowing field that reduces enemy movement speed by 35% for 5 seconds.  
 
-![Darryl](imgs/Darryl_Skin-Default.webp){width="100px"}
+#### Star Powers:
+Steel Hoops**: Darryl gains a shield that reduces damage by 90% for 0.9 seconds after using his Super.  
+Rolling Reload**: Darryl's reload speed is doubled for 5 seconds after using his Super.  
+
+![Darryl](imgs/Darryl_Skin-Default.webp){width="100px"}  
 
 ### Dynamike  
-Class: Super Rare Brawler  
-Description: Dynamike is a longrange brawler who throws dynamite sticks that explode after a short delay, dealing area damage. He excels at controlling large spaces with his explosive attacks.  
+Class: Super Rare Damage Dealer  
+Description: Dynamike is a long-range brawler who throws dynamite sticks that explode after a short delay, dealing area damage. He excels at controlling large spaces with his explosive attacks.  
 Super Ability: Dynamike's super is a massive barrel of TNT that deals heavy damage in a large area, capable of destroying walls and enemy cover.  
 
-#### Star Powers:
- DynaJump: Dynamike can jump over his own bombs.
- Demolition: Dynamike's Super deals 1000 extra damage.
+#### Gadgets:
+Fidget Spinner**: Dynamike spins, throwing dynamite in all directions.  
+Satchel Charge**: Dynamike’s next main attack stuns enemies for 1.5 seconds.  
 
-![Dynamike](imgs/Dynamike_Skin-Default.webp){width="100px"}
+#### Star Powers:
+Dyna Jump**: Dynamike can jump over his own bombs.  
+Demolition**: Dynamike's Super deals 1000 extra damage.  
+
+![Dynamike](imgs/Dynamike_Skin-Default.webp){width="100px"}  
 
 ### Jessie  
 Class: Super Rare Brawler  
 Description: Jessie is a versatile brawler who uses an energy orb that bounces between enemies. Her attacks can deal damage to multiple targets if positioned correctly.  
 Super Ability: Jessie's super summons a turret that shoots at enemies, providing additional firepower and support.  
 
+#### Gadgets:
+Spark Plug**: Jessie's turret emits a shockwave, slowing down nearby enemies.  
+Recoil Spring**: Jessie's turret's attack speed is doubled for 5 seconds.  
+
 #### Star Powers:
- Energize: Jessie's shots that hit her turret heal it for 800 health.
- Shocky: Jessie's turret's shots bounce between enemies.
+Energize**: Jessie's shots that hit her turret heal it for 800 health.  
+Shocky**: Jessie's turret's shots bounce between enemies.  
 
 ![Jessie](imgs/Jessie_Skin-Default.webp){width="100px"}
 
@@ -130,31 +174,43 @@ Class: Epic Brawler
 Description: Bo is a ranged attacker with explosive arrows. He has medium health and high attack potential. His arrows explode on impact, covering a wide area and damaging multiple enemies.  
 Super Ability: Bo lays down hidden mines that explode when enemies step on them, making him great for area control.  
 
+#### Gadgets:
+Super Totem**: Bo drops a totem that slowly charges the Super of all nearby allies.  
+Tripwire**: Bo can manually detonate his mines, reducing their explosion delay.  
+
 #### Star Powers:
- Circling Eagle: Bo can see enemies hiding in bushes from much further away.
- Snare a Bear: Bo's mines stun enemies for 2 seconds when triggered.
+Circling Eagle**: Bo can see enemies hiding in bushes from much further away.  
+Snare a Bear**: Bo's mines stun enemies for 2 seconds when triggered.  
 
 ![Bo](imgs/Bo_Skin-Default.webp){width="100px"}
 
 ### Edgar  
 Class: Epic Brawler  
-Description: Edgar is a fast, closerange brawler with a lifesteal mechanic. His punches allow him to recover some health with each hit.  
+Description: Edgar is a fast, close-range brawler with a lifesteal mechanic. His punches allow him to recover some health with each hit.  
 Super Ability: Edgar's super lets him jump over obstacles and enemies, allowing him to close the gap and engage enemies quickly.  
 
+#### Gadgets:
+Let's Fly**: Edgar's Super charges 525% faster for 4 seconds.  
+Hardcore**: Edgar gains a shield that absorbs 2000 damage for 2 seconds.  
+
 #### Star Powers:
- Hard Landing: Edgar deals 1000 damage to nearby enemies when he lands after using his Super.
- Fisticuffs: Edgar heals 25% more from his attacks.
+Hard Landing**: Edgar deals 1000 damage to nearby enemies when he lands after using his Super.  
+Fisticuffs**: Edgar heals 25% more from his attacks.  
 
 ![Edgar](imgs/Edgar_Skin-Default.webp){width="100px"}
 
 ### Griff  
 Class: Epic Brawler  
-Description: Griff is a longranged brawler who attacks by throwing 3 waves of coins, each wave having 3 coins.  
-Super Ability: Griff throws out banknotes in a wide area that do more damage the further away the opponent is, but the banknotes return to him, damaging opponents in the area again.  
+Description: Griff is a long-ranged brawler who attacks by throwing 3 waves of coins, each wave having 3 coins.  
+Super Ability: Griff throws out banknotes in a wide area that do more damage the farther away the opponent is, but the banknotes return to him, damaging opponents in the area again.  
+
+#### Gadgets:
+Piggy Bank**: Griff drops a piggy bank that explodes after a short delay, dealing damage to nearby enemies and destroying walls.  
+Coin Shower**: Griff's next attack shoots 33% more coins.  
 
 #### Star Powers:
- Keep the Change: Griff's coins from his main attack now pierce through enemies.
- Business Resilience: Griff gains a shield that reduces damage by 30% when he falls below 40% health.
+Keep the Change**: Griff's coins from his main attack now pierce through enemies.  
+Business Resilience**: Griff gains a shield that reduces damage by 30% when he falls below 40% health.  
 
 ![Griff](imgs/Griff_Skin-Default.webp){width="100px"}
 
@@ -165,9 +221,13 @@ Class: Mythic Brawler
 Description: Tara throws cards that spread out in a cone, dealing damage to all enemies they hit. She can hit multiple targets at once, making her great for dealing with groups.  
 Super Ability: Tara's super pulls enemies toward the center of a black hole, grouping them together and blowing up.  
 
+#### Gadgets:
+Psychic Enhancer**: Tara and her allies can see all enemies, even in bushes, for 5 seconds.  
+Support From Beyond**: Tara spawns three shadow clones that attack enemies for a short duration.  
+
 #### Star Powers:
- Black Portal: When Tara's Super ends, it spawns a shadow clone of herself.
- Healing Shade: Tara's shadow heals herself and nearby allies for 400 health per second.
+Black Portal**: When Tara's Super ends, it spawns a shadow clone of herself.  
+Healing Shade**: Tara's shadow heals herself and nearby allies for 400 health per second.  
 
 ![Tara](imgs/Tara_Skin-Default.webp){width="100px"}
 
@@ -176,43 +236,58 @@ Class: Mythic Support
 Description: Byron is a support brawler with low health, and low damage but stacking poison that does 760 damage over time.  
 Super Ability: Byron's super heals all his allies by 2100 over time while dealing the same amount of damage to all enemies in the range.
 
+#### Gadgets:
+Shot in the Arm**: Byron instantly heals himself for 800 health.  
+Booster Shots**: Byron's next attack shoots three projectiles instead of one.  
+
 #### Star Powers:
- Injection: Byron shoots a dart every 3.5 seconds that can pass through enemies and walls.
- Malaise: Byron's Super reduces all healing to affected enemies by 50%.
+Injection**: Byron shoots a dart every 3.5 seconds that can pass through enemies and walls.  
+Malaise**: Byron's Super reduces all healing to affected enemies by 50%.  
 
 ![Byron](imgs/Byron_Skin-Default.webp){width="100px"}
 
-
 ### Fang  
 Class: Mythic Brawler  
-Description: Fang is a melee brawler who deals heavy damage up close and can kick his shoe for a longrange attack. His melee punches are fast and deal significant damage.  
+Description: Fang is a melee brawler who deals heavy damage up close and can kick his shoe for a long-range attack. His melee punches are fast and deal significant damage.  
 Super Ability: Fang's super lets him dash toward enemies and hit them with a flying kick, damaging all enemies in his path.  
 
+#### Gadgets:
+Corn-Fu**: Fang throws popcorn in all directions, dealing damage to nearby enemies.  
+Roundhouse Kick**: Fang stuns nearby enemies for 0.5 seconds with a roundhouse kick.  
+
 #### Star Powers:
- Fresh Kicks: Fang's super is refreshed instantly if it hits an enemy brawler.
- Divine Soles: Fang's main attack now deals 500 more damage if his shoe hits an enemy.
+Fresh Kicks**: Fang's super is refreshed instantly if it hits an enemy brawler.  
+Divine Soles**: Fang's main attack now deals 500 more damage if his shoe hits an enemy.  
 
 ![Fang](imgs/Fang_Skin-Default.webp){width="100px"}
 
 ### Mortis  
 Class: Mythic Brawler  
-Description: Mortis is a melee brawler with a fast dash attack that allows him to quickly close the distance on enemies. He excels at hitandrun tactics, dashing in to deal damage and then escaping.  
+Description: Mortis is a melee brawler with a fast dash attack that allows him to quickly close the distance on enemies. He excels at hit-and-run tactics, dashing in to deal damage and then escaping.  
 Super Ability: Mortis' super summons a swarm of bats that damage enemies and heal Mortis for the damage dealt.  
 
+#### Gadgets:
+Combo Spinner**: Mortis spins in a circle, dealing 1300 damage to nearby enemies.  
+Survival Shovel**: Mortis gains a faster reload speed for 4 seconds.  
+
 #### Star Powers:
- Creepy Harvest: Mortis heals 1800 health when he defeats an enemy brawler.
- Coiled Snake: Mortis can dash much farther after charging up his attack for 3.5 seconds.
+Creepy Harvest**: Mortis heals 1800 health when he defeats an enemy brawler.  
+Coiled Snake**: Mortis can dash much farther after charging up his attack for 3.5 seconds.  
 
 ![Mortis](imgs/Mortis_Skin-Default.webp){width="150px"}
 
 ### Mr. P  
 Class: Mythic Brawler  
 Description: Mr. P is a ranged brawler who throws suitcases that bounce and deal damage over obstacles. He can control the battlefield with his turret that spawns robotic porters to attack enemies.  
-Super Ability: Mr. P’s super spawns a roboporter that creates small robot helpers to harass enemies.  
+Super Ability: Mr. P’s super spawns a robo-porter that creates small robot helpers to harass enemies.  
+
+#### Gadgets:
+Service Bell**: Mr. P's next robo-porter spawns with increased damage and health for 12 seconds.  
+Porter Reinforcements**: Mr. P instantly spawns three robo-porters at his home base.  
 
 #### Star Powers:
- Handle With Care: Every 4 seconds, the explosion damage of Mr. P's next attack is increased by 40%.
- Revolving Door: All robo-porters from the home base now have 20% more health and 30% higher damage.
+Handle With Care**: Every 4 seconds, the explosion damage of Mr. P's next attack is increased by 40%.  
+Revolving Door**: All robo-porters from the home base now have 20% more health and 30% higher damage.  
 
 ![Mr. P](imgs/MrP_Skin-Default.webp){width="100px"}
 
@@ -220,52 +295,78 @@ Super Ability: Mr. P’s super spawns a roboporter that creates small robot help
 
 ### Spike  
 Class: Legendary Brawler  
-Description: Spike is a longrange brawler who throws a cactus that explodes on impact, releasing spikes in all directions. He excels at controlling the battlefield and dealing damage from afar.  
+Description: Spike is a long-range brawler who throws a cactus that explodes on impact, releasing spikes in all directions. He excels at controlling the battlefield and dealing damage from afar.  
 Super Ability: Spike's super creates a field of slowing, damaging cacti that hinder enemy movement and deal continuous damage.  
 
+#### Gadgets:
+Popping Pincushion**: Spike shoots three waves of needles in all directions.  
+Life Plant**: Spike creates a cactus that shields him and his teammates, absorbing 3500 damage before exploding and healing nearby allies for 1000 health.  
+
 #### Star Powers:
- Fertilize: Spike recovers 800 health per second while standing in the area of his Super.
- Curveball: Spike’s main attack projectiles curve, making it harder for enemies to avoid them.
+Fertilize**: Spike recovers 800 health per second while standing in the area of his Super.  
+Curveball**: Spike’s main attack projectiles curve, making it harder for enemies to avoid them.  
 
 ![Spike](imgs/Spike_Skin-Default.webp){width="100px"}
 
 ### Crow  
 Class: Legendary Brawler  
-Description: Crow is a toxic assassin who throws poisoned daggers that deal damage over time. His fast movement and damageover-time ability make him dangerous in hitandrun tactics.  
+Description: Crow is a toxic assassin who throws poisoned daggers that deal damage over time. His fast movement and damage-over-time ability make him dangerous in hit-and-run tactics.  
 Super Ability: Crow's super allows him to leap into the air, throwing a spread of poisoned daggers in all directions upon landing.  
 
+#### Gadgets:
+Defense Booster**: Crow gains a shield that reduces incoming damage by 60% for 3 seconds.  
+Slowing Toxin**: Crow's next attack slows enemies for 5 seconds.  
+
 #### Star Powers:
- Extra Toxic: Crow's poison reduces the damage enemies deal by 25%.
- Carrion Crow: Crow deals more damage to enemies with 50% or less health.
+Extra Toxic**: Crow's poison reduces the damage enemies deal by 25%.  
+Carrion Crow**: Crow deals more damage to enemies with 50% or less health.  
 
 ![Crow](imgs/Crow_Skin-Default.webp){width="100px"}
 
 ### Leon  
 Class: Legendary Brawler  
 Description: Leon is a stealthy brawler who throws shurikens with a wide spread. His Super allows him to turn invisible, making him a deadly assassin that can sneak up on enemies.  
-Super Ability: Leon’s super grants him invisibility for a short duration, allowing him to ambush enemies or escape dangerous situations.  
+
+#### Gadgets:
+Clone Projector**: Leon spawns a holographic clone that travels in a straight line to confuse enemies.  
+Lollipop Drop**: Leon drops a lollipop that creates an invisible field for him and his allies.  
 
 #### Star Powers:
- Smoke Trails: Leon gains a 30% speed boost for the duration of his Super.
- Invisiheal: Leon heals 1000 health per second while invisible.
+Smoke Trails**: Leon gains a 30% speed boost for the duration of his Super.  
+Invisiheal**: Leon heals 1000 health per second while invisible.  
 
 ![Leon](imgs/Leon_Skin-Default.webp){width="100px"}
 
 ### Amber  
 Class: Legendary Brawler  
-Description: Amber is a firebased brawler who continuously sprays fire from her torch, dealing damage to all enemies in her path. She can leave a trail of oil on the ground, which she can ignite to deal even more damage.  
+Description: Amber is a fire-based brawler who continuously sprays fire from her torch, dealing damage to all enemies in her path. She can leave a trail of oil on the ground, which she can ignite to deal even more damage.  
 Super Ability: Amber's super throws a large flask of oil that spreads over a wide area. She can ignite the oil at any time, creating a massive fire zone.  
 
+#### Gadgets:
+Fire Starters**: Amber's movement speed increases by 20% for 3 seconds, and she leaves a trail of fire behind her.  
+Dancing Flames**: Amber shoots small fireballs around herself, damaging nearby enemies.  
+
 #### Star Powers:
- Wild Flames: Amber can have two oil pools on the ground at once.
- Scorchin' Siphon: Amber recharges her super 50% faster when standing in a puddle of oil.
+Wild Flames**: Amber can have two oil pools on the ground at once.  
+Scorchin' Siphon**: Amber recharges her super 50% faster when standing in a puddle of oil.  
 
 ![Amber](imgs/Amber_Skin-Default.webp){width="100px"}
 
 ### Meg  
 Class: Legendary Brawler  
 Description: Meg is a brawler who can transform into a mech with increased health and damage output.  
-Super Ability: Meg's super transforms her into a powerful mech with a medium ranged attack, but if she is already in her mech her super makes her swing her mechs arm doing a lot of damage.  
+Super Ability: Meg's super transforms her into a powerful mech with a medium ranged attack, but if she is already in her mech, her super makes her swing her mech's arm doing a lot of damage.  
+
+#### Gadgets:
+Jolting Volts**: Meg heals her mech for 1500 health over 5 seconds.  
+Toolbox**: Meg's next attack in her normal form deals 50% more damage.  
+
+#### Star Powers:
+Force Field**: Meg gains a shield that reduces damage taken by 35% for 10 seconds when her mech is destroyed.  
+Self Destruction**: When Meg's mech is destroyed, it explodes and deals 1000 damage to nearby enemies.  
+
+![Meg](imgs/Meg_Skin-Default.webp){width="100px"}
+
 
 
 
@@ -289,125 +390,157 @@ Shredding: When Draco uses his Super, he recovers 2750 health.
 
 ### **Gem Grab**
 **Goal:** Collect 10 gems and hold them while defending your team.
-- **Team Size:** 3
-- **How to Win:** You need to hold 10 gems for 15 seconds. Gems pop up in the middle of the map.
+Team Size:** 3
+How to Win:** You need to hold 10 gems for 15 seconds. Gems pop up in the middle of the map.
 
 **Tips:**
-- **Control the center:** Stay in the middle to grab the gems that appear.
-- **Gem Carrier:** Pick one person to hold most of the gems, like **Poco** or **Bo**. The others should fight off enemies.
-- **Play safe:** If your team has enough gems, stay back and protect your gem carrier.
+Control the center:** Stay in the middle to grab the gems that appear.
+Gem Carrier:** Pick one person to hold most of the gems, like **Poco** or **Bo**. The others should fight off enemies.
+Play safe:** If your team has enough gems, stay back and protect your gem carrier.
 
 **Best Brawlers:**
-- **Healers:** **Poco**, **Byron** to keep the gem carrier alive.
-- **Control:** **Bo**, **Jessie**, **Nita** to stop enemies from getting gems.
+Healers:** **Poco**, **Byron** to keep the gem carrier alive.
+Control:** **Bo**, **Jessie**, **Nita** to stop enemies from getting gems.
 
 ---
 
 ### **Showdown (Solo/Duo)**
 **Goal:** Be the last brawler or team standing.
-- **Players:** 10 (either by yourself or with a partner)
-- **How to Win:** You win if you’re the last person or duo left.
+Players:** 10 (either by yourself or with a partner)
+How to Win:** You win if you’re the last person or duo left.
 
 **Tips:**
-- **Collect Power Cubes:** These make you stronger, so open boxes and collect cubes.
-- **Play smart:** Don’t rush into fights unless you're sure you can win.
-- **Hide:** Use bushes to surprise enemies and stay safe.
+Collect Power Cubes:** These make you stronger, so open boxes and collect cubes.
+Play smart:** Don’t rush into fights unless you're sure you can win.
+Hide:** Use bushes to surprise enemies and stay safe.
 
 **Best Brawlers:**
-- **Solo Showdown:** **Crow**, **Leon** because they’re fast and sneaky.
-- **Duo Showdown:** **Bull**, **El Primo**, **Edgar** for close-range fights.
+Solo Showdown:** **Crow**, **Leon** because they’re fast and sneaky.
+Duo Showdown:** **Bull**, **El Primo**, **Edgar** for close-range fights.
 
 ---
 
 ### **Brawl Ball**
 **Goal:** Score 2 goals by pushing the ball into the other team’s goal.
-- **Team Size:** 3
-- **How to Win:** Be the first team to score two goals.
+Team Size:** 3
+How to Win:** Be the first team to score two goals.
 
 **Tips:**
-- **Teamwork:** Pass the ball and work together to score.
-- **Defend:** Keep at least one brawler near your goal to stop the enemy.
-- **Break walls:** Use brawlers like **Bull** or **Colt** to destroy walls and make it easier to score.
+Teamwork:** Pass the ball and work together to score.
+Defend:** Keep at least one brawler near your goal to stop the enemy.
+Break walls:** Use brawlers like **Bull** or **Colt** to destroy walls and make it easier to score.
 
 **Best Brawlers:**
-- **Tanks:** **El Primo**, **Bull** to push through enemies and score.
-- **Support:** **Poco** to heal teammates.
-- **Long-Range:** **Colt**, **Brock** to shoot from far away.
+Tanks:** **El Primo**, **Bull** to push through enemies and score.
+Support:** **Poco** to heal teammates.
+Long-Range:** **Colt**, **Brock** to shoot from far away.
 
 ---
 
 ### **Heist**
 **Goal:** Destroy the other team’s safe while protecting yours.
-- **Team Size:** 3
-- **How to Win:** Destroy the enemy safe or deal more damage to it before time runs out.
+Team Size:** 3
+How to Win:** Destroy the enemy safe or deal more damage to it before time runs out.
 
 **Tips:**
-- **Attack and defend:** One person defends while the other two attack the enemy safe.
-- **Big damage:** Pick brawlers who can do lots of damage quickly.
+Attack and defend:** One person defends while the other two attack the enemy safe.
+Big damage:** Pick brawlers who can do lots of damage quickly.
 
 **Best Brawlers:**
-- **High damage:** **Nita**, **Colette**, **Jessie**, **Dynamike** Nita and Jessie both have pet that do a lot of damage with starpowers and gadgets, while colette hypercharge does a lot of damage and is easy to charge up, and Dynamike because he can attack over wall to damage the safe and also be safe.
-- **Tanks:** **Bull**, **Darryl** to take hits and stay alive longer.
+High damage:** **Nita**, **Colette**, **Jessie**, **Dynamike** Nita and Jessie both have pet that do a lot of damage with starpowers and gadgets, while colette hypercharge does a lot of damage and is easy to charge up, and Dynamike because he can attack over wall to damage the safe and also be safe.
+Tanks:** **Bull**, **Darryl** to take hits and stay alive longer.
 
 ---
 
 ### **Bounty**
 **Goal:** Get more stars by defeating enemies.
-- **Team Size:** 3
-- **How to Win:** The team with the most stars when time runs out wins.
+Team Size:** 3
+How to Win:** The team with the most stars when time runs out wins.
 
 **Tips:**
-- **Play it safe:** Don’t rush in if you’re winning—stay back and defend.
-- **Finish off weak enemies:** Try to target brawlers who are low on health.
+Play it safe:** Don’t rush in if you’re winning—stay back and defend.
+Finish off weak enemies:** Try to target brawlers who are low on health.
 
 **Best Brawlers:**
-- **Long-range:** **Piper**, **Brock**, **Colt** because they can hit enemies from far away.
-- **Fast:** **Crow**, **Leon** to jump in, attack, and get out quickly.
+Long-range:** **Piper**, **Brock**, **Colt** because they can hit enemies from far away.
+Fast:** **Crow**, **Leon** to jump in, attack, and get out quickly.
 
 ---
 
 ### **Hot Zone**
 **Goal:** Hold certain zones to win.
-- **Team Size:** 3
-- **How to Win:** Control zones until your meter fills up to 100%.
+Team Size:** 3
+How to Win:** Control zones until your meter fills up to 100%.
 
 **Tips:**
-- **Control the area:** Keep enemies out of the zones by using brawlers with good area control.
-- **Work together:** Make sure you and your teammates stay in the zone while keeping enemies out.
+Control the area:** Keep enemies out of the zones by using brawlers with good area control.
+Work together:** Make sure you and your teammates stay in the zone while keeping enemies out.
 
 **Best Brawlers:**
-- **Control:** **Sandy**, **Jessie**, **Bo** to stop enemies from getting in the zone.
-- **Tanks:** **Bull**, **El Primo** to stay in the zone and take damage.
+Control:** **Sandy**, **Jessie**, **Bo** to stop enemies from getting in the zone.
+Tanks:** **Bull**, **El Primo** to stay in the zone and take damage.
 
 ---
 
 ### **Siege**
 **Goal:** Build a robot to help destroy the enemy base.
-- **Team Size:** 3
-- **How to Win:** Destroy the enemy base or deal the most damage.
+Team Size:** 3
+How to Win:** Destroy the enemy base or deal the most damage.
 
 **Tips:**
-- **Collect bolts:** Bolts show up in the center, and collecting them helps you build a robot.
-- **Defend your base:** Use long-range brawlers to stop the enemy robot from reaching your base.
-- **Push with the robot:** When your robot attacks, help it deal as much damage as possible.
+Collect bolts:** Bolts show up in the center, and collecting them helps you build a robot.
+Defend your base:** Use long-range brawlers to stop the enemy robot from reaching your base.
+Push with the robot:** When your robot attacks, help it deal as much damage as possible.
 
 **Best Brawlers:**
-- **Tanks:** **Bull**, **El Primo** to fight alongside the robot.
-- **Damage dealers:** **Colt**, **Brock**, **Rico** for high damage.
+Tanks:** **Bull**, **El Primo** to fight alongside the robot.
+Damage dealers:** **Colt**, **Brock**, **Rico** for high damage.
 
 ---
 
 ### **Knockout**
 **Goal:** Defeat all enemies in a best-of-three round format.
-- **Team Size:** 3
-- **How to Win:** Eliminate all enemies to win the round. There are no respawns.
+Team Size:** 3
+How to Win:** Eliminate all enemies to win the round. There are no respawns.
 
 **Tips:**
-- **Be careful:** Since you can’t respawn, don’t take too many risks.
-- **Team up on enemies:** Focus on taking down one enemy at a time to get an advantage.
+Be careful:** Since you can’t respawn, don’t take too many risks.
+Team up on enemies:** Focus on taking down one enemy at a time to get an advantage.
 
 **Best Brawlers:**
-- **Big damage:** **Piper**, **Brock**, **Dynamike** for long-range high damage.
-- **Sneaky:** **Edgar**, **Leon**, **Crow** to pick off enemies.
+Big damage:** **Piper**, **Brock**, **Dynamike** for long-range high damage.
+Sneaky:** **Edgar**, **Leon**, **Crow** to pick off enemies.
 
 ---
+
+
+## currencies:
+
+### coins:
+    usage:
+       Upgrade Brawlers
+       Buy stars powers
+       gadgets 
+       Hypercharges
+
+### gems:
+    usage:
+       Purchase Skins
+       Buy Offers in the Shop
+
+### credits:
+    Usage:
+       Get Brawlers
+       Upgrade Fame
+
+### bling:
+    usage:
+       Purchase Cosmetics like Skins, Pins, Sprays
+
+### power points:
+    usage:
+       Upgrade Brawler's stats (health, damage, etc.)
+
+### brawl pass EXP:
+    usage:
+       Progress through Brawl pass and gain rewards
