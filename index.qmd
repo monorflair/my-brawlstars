@@ -73,7 +73,7 @@ Asteroid Belt**: El Primo calls down a small meteor to strike a targeted area, d
 El Fuego**: El Primo's Super leaves a trail of fire, dealing 1200 damage over 4 seconds to enemies.  
 Meteor Rush**: El Primo gains a 32% speed boost for 5 seconds after using his Super.  
 
-![El Primo](imgs/ElPrimo_Skin-Default.webp){width="100px"}  
+![El Primo](imgs/El_Primo_Skin-Default.webp){width="100px"}  
 
 ### Poco  
 Class: Rare Support  
