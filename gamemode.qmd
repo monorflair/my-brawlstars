@@ -1,0 +1,126 @@
+## Game Modes
+
+---
+
+## **Gem Grab**
+**Goal:** Collect 10 gems and hold them while defending your team.
+Team Size:** 3
+How to Win:** You need to hold 10 gems for 15 seconds. Gems pop up in the middle of the map.
+
+**Tips:**
+Control the center:** Stay in the middle to grab the gems that appear.
+Gem Carrier:** Pick one person to hold most of the gems, like **Poco** or **Bo**. The others should fight off enemies.
+Play safe:** If your team has enough gems, stay back and protect your gem carrier.
+
+**Best Brawlers:**
+Healers:** **Poco**, **Byron** to keep the gem carrier alive.
+Control:** **Bo**, **Jessie**, **Nita** to stop enemies from getting gems.
+
+---
+
+## **Showdown (Solo/Duo)**
+**Goal:** Be the last brawler or team standing.
+Players:** 10 (either by yourself or with a partner)
+How to Win:** You win if you’re the last person or duo left.
+
+**Tips:**
+Collect Power Cubes:** These make you stronger, so open boxes and collect cubes.
+Play smart:** Don’t rush into fights unless you're sure you can win.
+Hide:** Use bushes to surprise enemies and stay safe.
+
+**Best Brawlers:**
+Solo Showdown:** **Crow**, **Leon** because they’re fast and sneaky.
+Duo Showdown:** **Bull**, **El Primo**, **Edgar** for close-range fights.
+
+---
+
+## **Brawl Ball**
+**Goal:** Score 2 goals by pushing the ball into the other team’s goal.
+Team Size:** 3
+How to Win:** Be the first team to score two goals.
+
+**Tips:**
+Teamwork:** Pass the ball and work together to score.
+Defend:** Keep at least one brawler near your goal to stop the enemy.
+Break walls:** Use brawlers like **Bull** or **Colt** to destroy walls and make it easier to score.
+
+**Best Brawlers:**
+Tanks:** **El Primo**, **Bull** to push through enemies and score.
+Support:** **Poco** to heal teammates.
+Long-Range:** **Colt**, **Brock** to shoot from far away.
+
+---
+
+## **Heist**
+**Goal:** Destroy the other team’s safe while protecting yours.
+Team Size:** 3
+How to Win:** Destroy the enemy safe or deal more damage to it before time runs out.
+
+**Tips:**
+Attack and defend:** One person defends while the other two attack the enemy safe.
+Big damage:** Pick brawlers who can do lots of damage quickly.
+
+**Best Brawlers:**
+High damage:** **Nita**, **Colette**, **Jessie**, **Dynamike** Nita and Jessie both have pet that do a lot of damage with starpowers and gadgets, while colette hypercharge does a lot of damage and is easy to charge up, and Dynamike because he can attack over wall to damage the safe and also be safe.
+Tanks:** **Bull**, **Darryl** to take hits and stay alive longer.
+
+---
+
+## **Bounty**
+**Goal:** Get more stars by defeating enemies.
+Team Size:** 3
+How to Win:** The team with the most stars when time runs out wins.
+
+**Tips:**
+Play it safe:** Don’t rush in if you’re winning—stay back and defend.
+Finish off weak enemies:** Try to target brawlers who are low on health.
+
+**Best Brawlers:**
+Long-range:** **Piper**, **Brock**, **Colt** because they can hit enemies from far away.
+Fast:** **Crow**, **Leon** to jump in, attack, and get out quickly.
+
+---
+
+## **Hot Zone**
+**Goal:** Hold certain zones to win.
+Team Size:** 3
+How to Win:** Control zones until your meter fills up to 100%.
+
+**Tips:**
+Control the area:** Keep enemies out of the zones by using brawlers with good area control.
+Work together:** Make sure you and your teammates stay in the zone while keeping enemies out.
+
+**Best Brawlers:**
+Control:** **Sandy**, **Jessie**, **Bo** to stop enemies from getting in the zone.
+Tanks:** **Bull**, **El Primo** to stay in the zone and take damage.
+
+---
+
+## **Siege**
+**Goal:** Build a robot to help destroy the enemy base.
+Team Size:** 3
+How to Win:** Destroy the enemy base or deal the most damage.
+
+**Tips:**
+Collect bolts:** Bolts show up in the center, and collecting them helps you build a robot.
+Defend your base:** Use long-range brawlers to stop the enemy robot from reaching your base.
+Push with the robot:** When your robot attacks, help it deal as much damage as possible.
+
+**Best Brawlers:**
+Tanks:** **Bull**, **El Primo** to fight alongside the robot.
+Damage dealers:** **Colt**, **Brock**, **Rico** for high damage.
+
+---
+
+## **Knockout**
+**Goal:** Defeat all enemies in a best-of-three round format.
+Team Size:** 3
+How to Win:** Eliminate all enemies to win the round. There are no respawns.
+
+**Tips:**
+Be careful:** Since you can’t respawn, don’t take too many risks.
+Team up on enemies:** Focus on taking down one enemy at a time to get an advantage.
+
+**Best Brawlers:**
+Big damage:** **Piper**, **Brock**, **Dynamike** for long-range high damage.
+Sneaky:** **Edgar**, **Leon**, **Crow** to pick off enemies.

@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - gamemode.qmd
+      - currencies.qmd
 
 format:
   html:

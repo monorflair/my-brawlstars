@@ -1,0 +1,32 @@
+--
+
+## currencies
+
+### coins:
+    usage:
+       Upgrade Brawlers
+       Buy stars powers
+       gadgets 
+       Hypercharges
+
+### gems:
+    usage:
+       Purchase Skins
+       Buy Offers in the Shop
+
+### credits:
+    Usage:
+       Get Brawlers
+       Upgrade Fame
+
+### bling:
+    usage:
+       Purchase Cosmetics like Skins, Pins, Sprays
+
+### power points:
+    usage:
+       Upgrade Brawler's stats (health, damage, etc.)
+
+### brawl pass EXP:
+    usage:
+       Progress through Brawl pass and gain rewards
