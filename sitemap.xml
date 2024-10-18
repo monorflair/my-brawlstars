@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://monorflair.github.io/my-brawlstars/index.html</loc>
-    <lastmod>2024-10-16T19:44:34.145Z</lastmod>
+    <lastmod>2024-10-18T09:11:42.352Z</lastmod>
   </url>
   <url>
     <loc>https://monorflair.github.io/my-brawlstars/about.html</loc>
-    <lastmod>2024-10-16T19:44:34.125Z</lastmod>
+    <lastmod>2024-10-18T09:11:42.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monorflair.github.io/my-brawlstars/gamemode.html</loc>
+    <lastmod>2024-10-18T09:11:42.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monorflair.github.io/my-brawlstars/currencies.html</loc>
+    <lastmod>2024-10-18T09:11:42.340Z</lastmod>
   </url>
 </urlset>
