@@ -10,6 +10,7 @@ website:
       - about.qmd
       - gamemode.qmd
       - currencies.qmd
+      - Brawlers.qmd
 
 format:
   html:

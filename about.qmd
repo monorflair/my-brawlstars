@@ -1,5 +1,5 @@
 ---
-title: "Monorflair"
+title: "Creator"
 about:
   template: jolla
   
@@ -12,12 +12,12 @@ about:
       href: https://github.com/monorflair
 ---
 
-Monorflair spends his time studying in Germany. He is presently in middleschool in one of the best schools in Frankfurt.
+Elroi spends his time studying in Germany. He is presently in middleschool in one of the best schools in Frankfurt.
 
 
 ## Experience
 
-Monorflair started coding in scratch since he was 6 years old and with python since he turned 9. His dad inroduced him to Quarto in 2024 and he has been trying it out ever since.
+Elroi started coding in scratch since he was 6 years old and with python since he turned 9. His dad inroduced him to Quarto in 2024 and he has been trying it out ever since.
 
 
 ## Hobbies
